@@ -1,3 +1,11 @@
+## Project Demonstration
+
+The following infographic illustrates the system architecture, FreeRTOS application tasks, inter-task communication, synchronization mechanisms, priority inversion experiment, and monitoring features.
+
+![RTOS-Based Task Scheduler Project Demonstration](Documentation/images/rtos-task-scheduler-demo.png)
+
+> **Note:** This project runs as a FreeRTOS POSIX host simulation on macOS. It is not an MCU firmware implementation.
+
 # RTOS-Based Task Scheduler
 
 A real-time task scheduling project using **FreeRTOS**, demonstrating task creation, priority-based preemptive scheduling, inter-task communication, synchronization, priority inversion, and runtime monitoring.
@@ -234,3 +242,5 @@ GitHub: [@jagadeeshsys](https://github.com/jagadeeshsys)
 ## License
 
 Refer to the FreeRTOS Kernel license included in the `FreeRTOS/FreeRTOS-Kernel` directory for the kernel's licensing terms.
+---
+
